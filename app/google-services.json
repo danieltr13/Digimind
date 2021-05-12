@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "776585525012",
+    "project_id": "midigimind-705b9",
+    "storage_bucket": "midigimind-705b9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:776585525012:android:035c1df3cd17224b12b401",
+        "android_client_info": {
+          "package_name": "trinidad.daniel.mydigimind"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "776585525012-538t8grrpla0uhk2uotb7s7f27vbhn7o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAn5mBPRXK0StQZbT2KeF7clXhFt6Iw52A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "776585525012-538t8grrpla0uhk2uotb7s7f27vbhn7o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
